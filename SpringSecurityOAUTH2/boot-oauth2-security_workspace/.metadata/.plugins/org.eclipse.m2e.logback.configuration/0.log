@@ -1,0 +1,97 @@
+2019-08-27 16:40:18,871 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javainuse:boot-oauth2-password-authorization-server:0.0.1.SNAPSHOT @ D:\DemoProjects\SpringSecurityOAUTH2\boot-oauth2-password-authorization\pom.xml.
+2019-08-27 16:40:24,926 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /boot-oauth2-password-authorization-server/src/main/java
+2019-08-27 16:40:24,927 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javainuse:boot-oauth2-password-authorization-server:0.0.1.SNAPSHOT @ D:\DemoProjects\SpringSecurityOAUTH2\boot-oauth2-password-authorization\pom.xml.
+2019-08-27 16:40:24,928 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /boot-oauth2-password-authorization-server/src/main/resources overlaps with sources folder /boot-oauth2-password-authorization-server/src/main/resources
+2019-08-27 16:40:24,933 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /boot-oauth2-password-authorization-server/src/main/resources overlaps with sources folder /boot-oauth2-password-authorization-server/src/main/resources
+2019-08-27 16:40:24,933 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /boot-oauth2-password-authorization-server/src/test/java
+2019-08-27 16:40:24,934 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /boot-oauth2-password-authorization-server/src/test/resources overlaps with sources folder /boot-oauth2-password-authorization-server/src/test/resources
+2019-08-27 16:40:38,928 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 31 sec
+2019-08-27 16:40:41,414 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javainuse:boot-oauth2-password-authorization-server:0.0.1.SNAPSHOT @ D:\DemoProjects\SpringSecurityOAUTH2\boot-oauth2-password-authorization\pom.xml.
+2019-08-27 16:40:43,382 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 16:40:43,407 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 16:40:43,407 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 16:40:43,411 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 16:40:43,411 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 16:41:08,041 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javainuse:boot-oauth2-password-resource-server:0.0.1.SNAPSHOT @ D:\DemoProjects\SpringSecurityOAUTH2\boot-oauth2-password-resource-server\pom.xml.
+2019-08-27 16:41:09,457 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /boot-oauth2-password-resource-server/src/main/java
+2019-08-27 16:41:09,458 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /boot-oauth2-password-resource-server/src/main/resources overlaps with sources folder /boot-oauth2-password-resource-server/src/main/resources
+2019-08-27 16:41:09,458 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /boot-oauth2-password-resource-server/src/main/resources overlaps with sources folder /boot-oauth2-password-resource-server/src/main/resources
+2019-08-27 16:41:09,459 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /boot-oauth2-password-resource-server/src/test/java
+2019-08-27 16:41:09,796 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2019-08-27 16:41:10,879 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javainuse:boot-oauth2-password-resource-server:0.0.1.SNAPSHOT @ D:\DemoProjects\SpringSecurityOAUTH2\boot-oauth2-password-resource-server\pom.xml.
+2019-08-27 16:41:12,212 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 16:41:12,213 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-27 16:41:12,232 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 16:41:12,235 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 16:41:12,236 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoProjects\SpringSecurityOAUTH2\boot-oauth2-password-resource-server\src\test\resources
+2019-08-27 16:41:13,255 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javainuse:boot-oauth2-password-resource-server:0.0.1.SNAPSHOT @ D:\DemoProjects\SpringSecurityOAUTH2\boot-oauth2-password-resource-server\pom.xml.
+2019-08-27 16:41:15,841 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 16:41:15,882 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 16:41:15,882 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 16:41:15,884 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 16:41:15,884 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoProjects\SpringSecurityOAUTH2\boot-oauth2-password-resource-server\src\test\resources
+2019-08-27 16:41:44,712 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 16:41:44,713 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 16:41:44,713 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 16:41:44,715 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 16:41:44,716 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 16:41:44,730 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 16:41:44,731 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 16:41:44,732 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 16:41:44,734 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 16:41:44,734 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoProjects\SpringSecurityOAUTH2\boot-oauth2-password-resource-server\src\test\resources
+2019-08-27 16:49:20,377 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 16:49:20,379 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 16:49:20,380 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 16:49:20,382 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 16:49:20,383 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 16:50:22,177 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 16:50:22,178 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-27 16:50:22,183 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 16:50:22,185 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 16:50:22,185 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoProjects\SpringSecurityOAUTH2\boot-oauth2-password-resource-server\src\test\resources
+2019-08-27 19:03:02,113 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:03:02,882 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 19:03:02,883 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 19:03:03,053 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:03:03,053 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 19:03:26,552 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:03:26,553 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 19:03:26,553 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 19:03:26,555 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:03:26,556 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 19:04:59,981 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:04:59,981 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-27 19:05:00,029 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 19:05:00,031 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:05:00,032 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoProjects\SpringSecurityOAUTH2\boot-oauth2-password-resource-server\src\test\resources
+2019-08-27 19:06:13,012 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:06:13,013 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-27 19:06:13,017 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 19:06:13,019 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:06:13,020 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoProjects\SpringSecurityOAUTH2\boot-oauth2-password-resource-server\src\test\resources
+2019-08-27 19:07:17,542 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:07:17,543 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-27 19:07:17,547 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 19:07:17,549 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:07:17,549 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoProjects\SpringSecurityOAUTH2\boot-oauth2-password-resource-server\src\test\resources
+2019-08-27 19:14:30,775 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:14:30,775 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 19:14:30,776 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 19:14:30,777 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:14:30,778 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 19:23:37,200 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:23:37,201 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-27 19:23:37,204 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 19:23:37,207 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:23:37,207 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoProjects\SpringSecurityOAUTH2\boot-oauth2-password-resource-server\src\test\resources
+2019-08-27 19:23:49,713 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:23:49,714 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-27 19:23:49,718 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 19:23:49,720 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:23:49,720 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoProjects\SpringSecurityOAUTH2\boot-oauth2-password-resource-server\src\test\resources
+2019-08-27 19:26:11,795 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:26:11,796 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-27 19:26:11,800 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-27 19:26:11,832 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-27 19:26:11,832 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DemoProjects\SpringSecurityOAUTH2\boot-oauth2-password-resource-server\src\test\resources

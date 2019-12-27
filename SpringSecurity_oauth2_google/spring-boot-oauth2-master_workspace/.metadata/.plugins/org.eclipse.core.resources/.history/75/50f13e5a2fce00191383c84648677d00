@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+	<h1>Home page</h1>
+	<div id="userDetails"> </div>
+	<a href="/login/**">Call Back</a>
+
+</body>
+</html>

@@ -1,0 +1,8 @@
+com\example\SpringBootResttemplateApplication.class
+com\example\restclient\Value.class
+com\example\repository\CustomerDAO.class
+com\example\web\CustomerRestController.class
+com\example\domain\Customer.class
+com\example\restclient\RandomQuoteClient.class
+com\example\restclient\Quote.class
+com\example\restclient\CustomerClient.class
